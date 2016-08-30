@@ -1,1 +1,3 @@
 Error: Invalid CSS after "...sion("Smile :-)": expected ";", was "");"
+        on line 3 of /sass/spec/libsass-issues/issue_690/input.scss
+  Use --trace for backtrace.

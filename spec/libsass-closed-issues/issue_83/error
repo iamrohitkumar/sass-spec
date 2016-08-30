@@ -1,1 +1,4 @@
 Error: Mixin colors is missing argument $color.
+        on line 7 of /sass/spec/libsass-issues/issue_83/input.scss, in `colors'
+        from line 7 of /sass/spec/libsass-issues/issue_83/input.scss
+  Use --trace for backtrace.

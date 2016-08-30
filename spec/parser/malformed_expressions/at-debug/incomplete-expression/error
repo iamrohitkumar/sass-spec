@@ -1,1 +1,3 @@
 Error: Invalid CSS after "@debug("foo"": expected ")", was ";"
+        on line 1 of /sass/spec/parser/malformed_expressions/at-debug/incomplete-expression/input.scss
+  Use --trace for backtrace.

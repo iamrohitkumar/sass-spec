@@ -1,1 +1,3 @@
 Error: Invalid CSS after "": expected selector, was "1a"
+        on line 1 of /sass/spec/libsass-issues/issue_2023/type-selector-id/input.scss
+  Use --trace for backtrace.
