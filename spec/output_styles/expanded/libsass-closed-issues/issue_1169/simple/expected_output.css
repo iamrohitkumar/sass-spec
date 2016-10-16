@@ -1,4 +1,4 @@
 .foo {
-  content: (red: "bar", "red": "foo");
-  content: (red: "bar", "red": red);
+  content: (#ff0000: "bar", "red": "foo");
+  content: (#ff0000: "bar", "red": #ff0000);
 }

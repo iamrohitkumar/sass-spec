@@ -1,3 +1,3 @@
 .foo {
-  content: (red: "bar", red: "baz");
+  content: (#ff0000: "bar", #ff0000: "baz");
 }

@@ -1,5 +1,5 @@
 foo {
-  bar: "x\79";
+  bar: "xy";
   baz: "xy";
   bar: "x\a";
   baz: "x\a";
