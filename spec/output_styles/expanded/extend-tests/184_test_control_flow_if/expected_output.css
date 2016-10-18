@@ -1,7 +1,7 @@
 .true, .also-true {
-  color: green;
+  color: #008000;
 }
 
 .false, .also-false {
-  color: red;
+  color: #ff0000;
 }

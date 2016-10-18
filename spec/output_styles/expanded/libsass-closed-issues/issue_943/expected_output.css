@@ -2,8 +2,8 @@
   .puppy:hover {
     display: none;
   }
-}
 
+}
 .puppy {
-  background-color: red;
+  background-color: #ff0000;
 }

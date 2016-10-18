@@ -1,6 +1,7 @@
 .foo, .baz {
-  background-color: lime;
+  background-color: #00ff00;
 }
+
 .foo a, .baz a {
-  color: white;
+  color: #ffffff;
 }

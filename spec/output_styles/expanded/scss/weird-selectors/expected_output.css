@@ -1,11 +1,11 @@
 > > E {
-  color: red;
+  color: #ff0000;
 }
 
 E > > {
-  color: red;
+  color: #ff0000;
 }
 
 > > E > > > > F > > {
-  color: red;
+  color: #ff0000;
 }

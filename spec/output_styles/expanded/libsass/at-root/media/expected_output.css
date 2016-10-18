@@ -1,10 +1,12 @@
 @media print {
   bar {
-    color: red;
+    color: #ff0000;
   }
+
 }
 @media speech {
   baz {
-    color: blue;
+    color: #0000ff;
   }
+
 }

@@ -1,10 +1,12 @@
 @media screen {
   a {
-    color: red;
+    color: #ff0000;
   }
+
 }
 @media (foo: bar) {
   .link {
     display: flex;
   }
+
 }

@@ -1,7 +1,7 @@
 .rc, test {
-  color: white;
+  color: #ffffff;
 }
 
 .prices span.pill span.rc {
-  color: red;
+  color: #ff0000;
 }
