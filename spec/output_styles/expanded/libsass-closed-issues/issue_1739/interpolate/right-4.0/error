@@ -1,3 +1,4 @@
-Error: Undefined operation: "3 times 2".
-        on line 23 of /sass/spec/output_styles/expanded/libsass-issues/issue_1739/interpolate/right-4.0/input.scss
-  Use --trace for backtrace.
+Error on line 2, column 8 of spec/output_styles/expanded/libsass-issues/issue_1739/interpolate/right-4.0/input.scss: Undefined operation "3 / 1/2".
+  baz: 3/#{1/2};
+       ^^^^^^^^
+  spec/output_styles/expanded/libsass-issues/issue_1739/interpolate/right-4.0/input.scss 2:8  root stylesheet

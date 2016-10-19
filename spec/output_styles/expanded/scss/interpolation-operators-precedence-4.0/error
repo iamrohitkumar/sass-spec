@@ -1,3 +1,4 @@
-Error: Undefined operation: "a times 5%".
-        on line 13 of /sass/spec/output_styles/expanded/scss/interpolation-operators-precedence-4.0/input.scss
-  Use --trace for backtrace.
+Error on line 13, column 9 of spec/output_styles/expanded/scss/interpolation-operators-precedence-4.0/input.scss: Undefined operation "a * 5%".
+  c04: (#{a} *5.0% + 2);
+        ^^^^^^^^^^
+  spec/output_styles/expanded/scss/interpolation-operators-precedence-4.0/input.scss 13:9  root stylesheet

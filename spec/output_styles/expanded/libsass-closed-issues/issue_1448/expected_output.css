@@ -1,7 +1,8 @@
 .md-card .md-info-card-highlight {
-  background: red;
-  color: blue;
+  background: #ff0000;
+  color: #0000ff;
 }
+
 .md-card .md-info-card-highlight .ng-md-icon {
-  color: green;
+  color: #008000;
 }

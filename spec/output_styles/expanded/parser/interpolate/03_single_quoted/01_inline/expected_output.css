@@ -1,5 +1,5 @@
 .result {
-  output: 'squoted';
+  output: "squoted";
   output: squoted;
   output: "[squoted]";
   output: "squoted";

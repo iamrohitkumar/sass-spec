@@ -1,3 +1,4 @@
-Error: Undefined operation: "10 gte 10".
-        on line 6 of /sass/spec/output_styles/expanded/parser/operations/logic_ge/numbers/pairs-4.0/input.scss
-  Use --trace for backtrace.
+Error on line 6, column 11 of spec/output_styles/expanded/parser/operations/logic_ge/numbers/pairs-4.0/input.scss: Undefined operation "10 >= 10".
+  test-5: 10>=#{10};
+          ^^^^^^^^^
+  spec/output_styles/expanded/parser/operations/logic_ge/numbers/pairs-4.0/input.scss 6:11  root stylesheet

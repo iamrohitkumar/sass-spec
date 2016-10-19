@@ -1,10 +1,10 @@
 foo {
   test-1: 20;
-  test-2: 10 +10;
+  test-2: 20;
   test-3: 20;
   test-4: 20;
   test-5: 20px;
-  test-6: 10 +10px;
+  test-6: 20px;
   test-7: 20px;
   test-8: 20px;
   test-9: 1010px;
@@ -24,7 +24,7 @@ foo {
   test-23: 20 px;
   test-24: 20 px;
   test-25: 20px;
-  test-26: 10px +10px;
+  test-26: 20px;
   test-27: 20px;
   test-28: 20px;
   test-29: 10px10px;

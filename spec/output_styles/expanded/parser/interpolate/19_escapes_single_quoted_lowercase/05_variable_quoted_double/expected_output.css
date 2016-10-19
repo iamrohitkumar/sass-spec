@@ -1,12 +1,12 @@
 .result {
-  dquoted: "ghijklmnopqrstuvwxyz";
-  dquoted: "[ghijklmnopqrstuvwxyz]";
-  dquoted: "ghijklmnopqrstuvwxyz";
-  dquoted: "ghijklmnopqrstuvwxyz";
-  dquoted: "['ghijklmnopqrstuvwxyz']";
-  squoted: "ghijklmnopqrstuvwxyz";
-  squoted: "[ghijklmnopqrstuvwxyz]";
-  squoted: "ghijklmnopqrstuvwxyz";
-  squoted: "ghijklmnopqrstuvwxyz";
-  squoted: "['ghijklmnopqrstuvwxyz']";
+  dquoted: "\b\c\d\e\fghijklmnopqrstuvwxyz";
+  dquoted: "[\b\c\d\e\fghijklmnopqrstuvwxyz]";
+  dquoted: "\b\c\d\e\fghijklmnopqrstuvwxyz";
+  dquoted: "\b\c\d\e\fghijklmnopqrstuvwxyz";
+  dquoted: "['\b\c\d\e\fghijklmnopqrstuvwxyz']";
+  squoted: "\b\c\d\e\fghijklmnopqrstuvwxyz";
+  squoted: "[\b\c\d\e\fghijklmnopqrstuvwxyz]";
+  squoted: "\b\c\d\e\fghijklmnopqrstuvwxyz";
+  squoted: "\b\c\d\e\fghijklmnopqrstuvwxyz";
+  squoted: "['\b\c\d\e\fghijklmnopqrstuvwxyz']";
 }

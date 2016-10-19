@@ -1,3 +1,4 @@
-Error: Undefined operation: "interpolant times interpolant".
-        on line 2 of /sass/spec/output_styles/expanded/parser/operations/multiply/strings/pairs-4.0/input.scss
-  Use --trace for backtrace.
+Error on line 2, column 12 of spec/output_styles/expanded/parser/operations/multiply/strings/pairs-4.0/input.scss: Undefined operation "interpolant * interpolant".
+  test-37: #{interpolant}*#{interpolant};
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  spec/output_styles/expanded/parser/operations/multiply/strings/pairs-4.0/input.scss 2:12  root stylesheet

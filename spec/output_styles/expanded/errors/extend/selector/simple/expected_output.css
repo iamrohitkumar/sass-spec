@@ -1,11 +1,11 @@
 .foo, .baz {
-  color: blue;
+  color: #0000ff;
 }
 
 .bar {
-  color: red;
+  color: #ff0000;
 }
 
 .baz {
-  color: green;
+  color: #008000;
 }
