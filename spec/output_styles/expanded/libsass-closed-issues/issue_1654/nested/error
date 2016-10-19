@@ -1,0 +1,4 @@
+Error on line 14, column 16 of spec/output_styles/expanded/libsass-issues/issue_1654/nested/input.scss: expected no more input.
+    @extend moo%foobar;
+               ^
+  spec/output_styles/expanded/libsass-issues/issue_1654/nested/input.scss 14:16  root stylesheet

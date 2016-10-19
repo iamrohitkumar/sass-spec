@@ -13,12 +13,11 @@ div {
   color: bool;
   color: number;
   color: string;
-  color: type-of(red);
+  color: type-of(#ff0000);
   color: "length(a b c d)";
-  color: aqua;
-  color: aqua;
-  color: cyan;
-  color: aqua;
+  color: #00ffff;
+  color: #00ffff;
+  color: #00ffff;
   width: 33;
   thing: url(number);
 }
