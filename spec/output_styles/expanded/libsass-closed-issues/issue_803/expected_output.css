@@ -1,6 +1,6 @@
-@media (min-width: 0) and (max-width: 599px),  (min-width: 600px) and (max-width: 899px) {
+@media (min-width: 0) and (max-width: 599px), (min-width: 600px) and (max-width: 899px) {
   .foo {
     content: bar;
   }
-
 }
+

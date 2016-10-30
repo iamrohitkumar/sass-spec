@@ -4,7 +4,7 @@ $x: 3px;
     /* if 1 */
 }
 /* comment 2 */
-@elseif/* pre 2 */$x == 2px/* post 2 */{
+@else if/* pre 2 */$x == 2px/* post 2 */{
     /* else if 2 */
 }
 /* comment 3 */

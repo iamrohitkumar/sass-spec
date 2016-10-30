@@ -1,0 +1,4 @@
+Error on line 7, column 12 of spec/output_styles/expanded/libsass-issues/issue_1251/input.scss: Undefined operation "#ff0000 + #008000".
+  eval: if(red + green, yellow, null);
+           ^^^^^^^^^^^
+  spec/output_styles/expanded/libsass-issues/issue_1251/input.scss 7:12  root stylesheet

@@ -2,14 +2,15 @@
   .foo {
     foo: bar;
   }
+
+  .foo .bar {
+    baz: bam;
+  }
+
 }
 @media (foo: bar) and (foo: bar), (bar: baz) and (foo: bar) {
   .foo {
     bar: baz;
   }
-}
-@media (foo: bar), (bar: baz) {
-  .foo .bar {
-    baz: bam;
-  }
+
 }
