@@ -142,7 +142,8 @@ class DartEngineAdapter < EngineAdapter
   end
 
   def compile(sass_filename, style, precision)
-    result = capture3_with_timeout("dart #{@path} --no-color --style #{style} #{sass_filename}",
+    result = capture3_with_timeout(
+        "dart #{@path} --no-color --style #{style || 'expanded'} #{sass_filename}",
         :binmode => true, :timeout => @timeout)
 
     if result[:timeout]
