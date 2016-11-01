@@ -134,7 +134,7 @@ class DartEngineAdapter < EngineAdapter
   end
 
   def describe
-    "Dart Sass"
+    "dart-sass"
   end
 
   def version
