@@ -1,11 +1,11 @@
 bar {
-  color: #ff0000;
+  color: red;
 }
 
 baz {
-  color: #0000ff;
+  color: blue;
 }
 
 bam foo, qux foo {
-  color: #008000;
+  color: green;
 }

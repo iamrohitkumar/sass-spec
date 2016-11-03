@@ -1,11 +1,11 @@
 foo {
-  content: (#ff0000: "literal", rgba(0, 0, 0, 0): "literal");
-  content: ("red": "quoted", rgba(0, 0, 0, 0): "quoted");
+  content: (red: "literal", transparent: "literal");
+  content: ("red": "quoted", transparent: "quoted");
   content: (red: "interpolated", transparent: "quoted");
 }
 
 bar {
-  content: (#ff0000: "literal", rgba(0, 0, 0, 0): "quoted", "red": "quoted");
-  content: (#ff0000: "literal", rgba(0, 0, 0, 0): "literal", red: "interpolated", transparent: "quoted");
-  content: ("red": "interpolated", rgba(0, 0, 0, 0): "quoted", transparent: "quoted");
+  content: (red: "literal", transparent: "quoted", "red": "quoted");
+  content: (red: "literal", transparent: "literal", red: "interpolated", transparent: "quoted");
+  content: ("red": "interpolated", transparent: "quoted", transparent: "quoted");
 }

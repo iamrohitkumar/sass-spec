@@ -1,14 +1,14 @@
 a, b {
-  color: #ff0000;
-  background: #0000ff;
+  color: red;
+  background: blue;
 }
 
 c, d {
-  color: #808080;
+  color: gray;
 }
 
 c e, c f, d e, d f {
-  background: #0000ff;
+  background: blue;
   padding: 10px 5px;
 }
 

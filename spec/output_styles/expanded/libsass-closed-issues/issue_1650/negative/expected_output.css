@@ -3,5 +3,5 @@
 :nth-of-type(2n -1),
 :nth-of-type(2n - 1),
 :nth-of-type(2n - 1 ) {
-  color: #ff0000;
+  color: red;
 }

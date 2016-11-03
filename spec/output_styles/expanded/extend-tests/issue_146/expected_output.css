@@ -1,7 +1,7 @@
 button {
-  background: #008000;
+  background: green;
 }
 
 button:hover {
-  background: #000000;
+  background: black;
 }

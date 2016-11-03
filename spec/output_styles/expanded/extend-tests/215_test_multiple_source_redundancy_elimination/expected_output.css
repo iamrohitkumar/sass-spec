@@ -1,7 +1,7 @@
 .test-case:active, .test-case {
-  color: #ff0000;
+  color: red;
 }
 
 .test-case:hover {
-  color: #008000;
+  color: green;
 }

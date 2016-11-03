@@ -1,32 +1,32 @@
 @media screen {
   a {
-    color: #000000;
+    color: black;
     height: 8px;
   }
 
 }
 a {
-  color: #ff0000;
+  color: red;
 }
 
 @media screen {
   a {
-    color: #0000ff;
+    color: blue;
     height: 10px;
   }
 
 }
 a {
-  color: #f5f5dc;
+  color: beige;
 }
 
 a b {
-  color: #008080;
+  color: teal;
 }
 
 @media screen {
   a b {
-    color: #ffa500;
+    color: orange;
   }
 
   a b c {

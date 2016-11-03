@@ -1,11 +1,11 @@
 .foo.bar {
-  color: #ff0000;
+  color: #F00;
 }
 
 .foo.baz {
-  color: #ff0000;
+  color: #F00;
 }
 
 .foo:nth-child(1) {
-  color: #ff0000;
+  color: #F00;
 }

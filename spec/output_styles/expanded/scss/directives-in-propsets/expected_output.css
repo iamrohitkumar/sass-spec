@@ -1,6 +1,6 @@
 div {
-  background-something-color: #008000;
-  background-color: #ff0000;
+  background-something-color: green;
+  background-color: red;
   background-position: 50%;
   background-image: url(foo.png);
   background-groo: foo;

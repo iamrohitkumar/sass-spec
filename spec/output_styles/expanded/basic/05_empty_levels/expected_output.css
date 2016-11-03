@@ -1,15 +1,15 @@
 div span {
-  color: #ff0000;
-  background: #0000ff;
+  color: red;
+  background: blue;
 }
 
 div {
-  color: #808080;
+  color: gray;
 }
 
 div empty span {
-  color: #ff0000;
-  background: #0000ff;
+  color: red;
+  background: blue;
 }
 
 empty1 empty2 div {

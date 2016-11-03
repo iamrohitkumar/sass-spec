@@ -1,15 +1,15 @@
 selector {
-  color: #ff0000;
+  color: red;
 }
 
 selector {
-  color: #ff0000;
+  color: red;
 }
 
 selector selector2 {
-  color: #ff0000;
+  color: red;
 }
 
 selector selector2 {
-  color: #ff0000;
+  color: red;
 }
